@@ -5,3 +5,8 @@ body {
 a {
     color: rgb(0, 0, 0);
 }
+
+img {
+    height: auto;
+    width: 512px;
+}
