@@ -1,3 +1,7 @@
 body {
     background-color: rgb(223, 243, 208);
 }
+
+a {
+    color: rgb(0, 0, 0);
+}
